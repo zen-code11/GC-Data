@@ -15,5 +15,6 @@ To create better KPIs and get insights by analyzing the given dataset.
 - Seaborn
 - Matplotlib
 
-
+Open Notebook in Colab:
+https://colab.research.google.com/drive/1RWg_81Y7IF2aV9tsz08BCcFbHiVNBIyT
 
